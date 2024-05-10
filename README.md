@@ -64,10 +64,12 @@ endmodule
 ```
 
 **RTL LOGIC FOR FLIPFLOPS**
+
 ![image](https://github.com/23004205/D-FLIPDLOP-NEGEDGE/assets/138971114/d627972a-862c-4b5a-a9d1-4c3423554034)
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
 ![image](https://github.com/23004205/D-FLIPDLOP-NEGEDGE/assets/138971114/fd75616f-33d8-4ad1-92ad-c2dfaeb7f184)
 
 
